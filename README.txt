@@ -1,4 +1,7 @@
 README
+Rui Santos
+
+Derivade work from:
 Scott C. Walton
 http://code.google.com/p/google-docs-fs
 
@@ -45,6 +48,7 @@ See the Issues page on the site listed above for the latest issues.
 THANKS
 ------
 
+Scott C. Walton for providing the first version I used in http://code.google.com/p/google-docs-fs
 Ben Samuel for his work in installing google-docs-fs on Mac OSX.
 invernizzi.l for his work on providing a Ubuntu package.
 miGlanz for writing the truncate() function, fixing Issue 6.
